@@ -1,5 +1,5 @@
 # cxInnovation
 
-The most advanced responsive front-end framework in the world.
+A toolkit to support innovation.
 
 Auto commited via [Mixture](http://mixture.io)
